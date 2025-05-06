@@ -154,5 +154,5 @@ cp intellitraffic.uf2 /path/to/PICO_DRIVE
 
 ### 📄 Licença
 
-Este projeto está licenciado sob a [Licença MIT](https://license/).
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
 *FreeRTOS é licenciado sob a MIT Open Source License*
